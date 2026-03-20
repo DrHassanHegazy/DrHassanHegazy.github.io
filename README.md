@@ -1,8 +1,11 @@
 Official Academic Website of Dr. Hassan Ahmed Hegazy | Assistant Professor of Civil Law.
 # د. حسن أحمد حجازي | Dr. Hassan Ahmed Hegazy
+<img src="photo.jpg" width="150" align="right" style="margin-left: 20px;">
 ### أستاذ القانون المدني المساعد - جامعة الأزهر | Assistant Professor of Civil Law, Al-Azhar University
+[📄 تحميل السيرة الذاتية (PDF) | Download Full CV](CV-Dr-Hassan-Hegazy.pdf)
 
-مرحباً بكم في صفحتي الأكاديمية الرسمية.
+
+مرحبًا بكم في صفحتي الأكاديمية الرسمية.
 
 ## 🖋️ نبذة أكاديمية | Academic Biography
 Assistant Professor of Civil Law at Al-Azhar University, Ph.D. with First-Class Honors. My research focuses on addressing digital-age challenges through contemporary legal and Sharia perspectives, specializing in virtual property and consumer protection. I possess a decade of university teaching experience, distinguished by consecutive 'Excellent' performance ratings and various scholarly publications, notably the 'Al-Mughni' series. Dedicated to enhancing academic quality and assessment, with a passion for leading student teams in international forums.
@@ -47,7 +50,20 @@ Assistant Professor of Civil Law at Al-Azhar University, Ph.D. with First-Class 
 
 9- Enlightening the Patient Between Theory and Practice: A Comparative Study. Forthcoming, Journal of Jurisprudential and Legal Studies, Higher Institute of the Judiciary, Sultanate of Oman.
 * **تبصير المريض بين النظرية والتطبيق** (2025) - مجلة الدراسات الفقهية والقانونية بالمعهد العالي للقضاء بسلطنة عمان. 
-  
+
+#
+## 🏫 الخبرة التدريسية (Teaching Experience)
+*تمتلك خبرة تمتد لأكثر من 10 سنوات في تدريس المقررات القانونية التالية:*
+
+* **القانون المدني:** (مصادر الالتزام، أحكام الالتزام، الحقوق العينية الأصلية والتبعية).
+* **قانون العمل والتأمينات الاجتماعية.**
+* **أصول الفقه الإسلامي والقانون المقارن.**
+* **قانون العمل والتأمينات.**
+#
+## 🏗️ مشاريع بحثية قيد التنفيذ (Current Projects)
+* **سلسلة المغني في شرح القانون المدني:** العمل جارٍ على إعداد المجلدات القادمة من هذه السلسلة.
+* **دراسة متخصصة:** حول المسؤولية المدنية للذكاء الاصطناعي في التشريع المصري المقارن.
+# 
 ## 🌐 الروابط المهنية (Professional Links)
 * [الملف الشخصي على ORCID](https://orcid.org/0009-0005-8869-4450)
 * [الباحث العلمي Google Scholar](https://bit.ly/GoogleScholar-DrHassanHegazy)
@@ -57,3 +73,49 @@ Assistant Professor of Civil Law at Al-Azhar University, Ph.D. with First-Class 
 ## ✉️ التواصل (Contact)
 * **البريد الإلكتروني الجامعي:** hassanahmed.31@azhar.edu.eg
 * **البريد الشخصي:** Dr.hsn24@gmail.com
+
+---
+### ⚖️ حقوق الملكية الفكرية (Intellectual Property)
+© 2026 Dr. Hassan Ahmed Hegazy. All rights reserved. 
+Content on this site is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Dr. Hassan Ahmed Hegazy",
+  "alternateName": "د. حسن أحمد حجازي",
+  "jobTitle": "Assistant Professor of Civil Law",
+  "affiliation": {
+    "@type": "EducationalOrganization",
+    "name": "Al-Azhar University",
+    "location": "Egypt"
+  },
+  "description": "أستاذ القانون المدني المساعد بجامعة الأزهر، متخصص في الملكية الافتراضية والمسؤولية المدنية للذكاء الاصطناعي والقانون المقارن.",
+  "knowsAbout": [
+    "Virtual Property Rights",
+    "Digital Assets",
+    "AI Civil Liability",
+    "Comparative Law",
+    "Egyptian Civil Code",
+    "French Civil Law",
+    "Islamic Jurisprudence",
+    "Digital Consumer Protection",
+    "Legal Technology",
+    "الملكية الافتراضية",
+    "الأصول الرقمية",
+    "المسؤولية المدنية عن الذكاء الاصطناعي",
+    "القانون المقارن",
+    "القانون المدني المصري",
+    "القانون المدني الفرنسي",
+    "الفقه الإسلامي",
+    "حماية المستهلك الرقمي",
+    "تكنولوجيا القانون"
+  ],
+  "author": {
+    "@type": "Book",
+    "name": "Al-Mughni fi Sharh Al-Qanun Al-Madani (المغني في شرح القانون المدني)"
+  }
+}
+</script>
