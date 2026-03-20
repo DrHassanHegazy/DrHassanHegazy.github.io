@@ -2,8 +2,11 @@ Official Academic Website of Dr. Hassan Ahmed Hegazy | Assistant Professor of Ci
 # د. حسن أحمد حجازي | Dr. Hassan Ahmed Hegazy
 ### أستاذ القانون المدني المساعد - جامعة الأزهر | Assistant Professor of Civil Law, Al-Azhar University
 
-مرحباً بكم في صفحتي الأكاديمية الرسمية. 
+مرحباً بكم في صفحتي الأكاديمية الرسمية.
 
+## 🖋️ نبذة أكاديمية | Academic Biography
+Assistant Professor of Civil Law at Al-Azhar University, Ph.D. with First-Class Honors. My research focuses on addressing digital-age challenges through contemporary legal and Sharia perspectives, specializing in virtual property and consumer protection. I possess a decade of university teaching experience, distinguished by consecutive 'Excellent' performance ratings and various scholarly publications, notably the 'Al-Mughni' series. Dedicated to enhancing academic quality and assessment, with a passion for leading student teams in international forums.
+دكتور قانون مدني بجامعة الأزهر، حاصل على دكتوراه بمرتبة الشرف الأولى، يَرتكِز نِتاجي العلمي على مُعالجة نوازِل العصر الرقمي برؤية قانونية وشرعية معاصرة، مع التركيز على قضايا الملكية الافتراضية وحماية المستهلك، لديّ خبرة تمتدُّ لعشر سنوات في التدريس الجامعي، كُلّلت بتقييم أداء "ممتاز" لسنوات متتالية، ومؤلفات علمية، أبرزها سلسلة: " المغني في شرح القانون المدني ". ملتزم بتطوير جودة التعليم والقياس الأكاديمي، مع شغف بقيادة كوادر طلابية في محافل دولية.
 ## 🎓 الرسائل العلمية (Theses)
 PhD Dissertation: Consumer Protection in Social Media Contracting: A Comparative Study between Civil Law and Islamic Jurisprudence, Faculty of Sharia and Law, Al-Azhar University, Cairo (2021), Grade: First Class Honors, Supervision of Prof. Dr. Mohamed Al-Duwayni, Deputy of Al-Azhar.
 * **رسالة الدكتوراه:** *الحماية المقررة للمستهلك في التعاقد عبر وسائل التواصل الاجتماعي: دراسة مقارنة بين القانون المدني والفقه الإسلامي* (2021) | [ Zenodo](https://zenodo.org/records/18895919)
@@ -42,4 +45,4 @@ Master’s Thesis: Patient Rights in Medical Treatment Contracts: A Comparative 
 ## ✉️ التواصل (Contact)
 * **البريد الإلكتروني الجامعي:** hassanahmed.31@azhar.edu.eg
 * **البريد الشخصي:** Dr.hsn24@gmail.com
-* **القسم:** قسم القانون الخاص، كلية الشريعة والقانون بالدقهلية، جامعة الأزهر، مصر.
+* **الهاتف:** 00201000788923
