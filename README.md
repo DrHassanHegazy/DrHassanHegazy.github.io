@@ -1,121 +1,186 @@
-Official Academic Website of Dr. Hassan Ahmed Hegazy | Assistant Professor of Civil Law.
-# د. حسن أحمد حجازي | Dr. Hassan Ahmed Hegazy
-<img src="photo.jpg" width="150" align="right" style="margin-left: 20px;">
-### أستاذ القانون المدني المساعد - جامعة الأزهر | Assistant Professor of Civil Law, Al-Azhar University
-[📄 تحميل السيرة الذاتية (PDF) | Download Full CV](CV-Dr-Hassan-Hegazy.pdf)
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Official Academic Website of Dr. Hassan Ahmed Hegazy | Assistant Professor of Civil Law</title>
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Dr. Hassan Ahmed Hegazy",
+      "alternateName": "د. حسن أحمد حجازي",
+      "jobTitle": "Assistant Professor of Civil Law",
+      "affiliation": {
+        "@type": "EducationalOrganization",
+        "name": "Al-Azhar University",
+        "location": "Egypt"
+      },
+      "url": "https://drhassanhegazy.github.io/",
+      "sameAs": [
+        "https://orcid.org/0009-0005-8869-4450",
+        "https://bit.ly/GoogleScholar-DrHassanHegazy",
+        "https://bit.ly/Zenodo-DrHassanHegazy",
+        "https://al-azhar.academia.edu/drhassanhegazy"
+      ],
+      "description": "أستاذ القانون المدني المساعد بجامعة الأزهر، متخصص في الملكية الافتراضية، الأصول الرقمية، المسؤولية المدنية عن الذكاء الاصطناعي، القانون المقارن، وحماية المستهلك الرقمي.",
+      "knowsAbout": [
+        "Virtual Property Rights", "Digital Assets", "AI Civil Liability", "Comparative Law", 
+        "Egyptian Civil Code", "French Civil Law", "Islamic Jurisprudence", 
+        "Al-Mughni fi Sharh Al-Qanun Al-Madani", "Digital Consumer Protection", 
+        "Private Law Researcher", "Legal Technology", "Labor Law", "Social Insurance",
+        "الملكية الافتراضية", "الأصول الرقمية", "المسؤولية المدنية عن الذكاء الاصطناعي", 
+        "القانون المقارن", "القانون المدني المصري", "القانون المدني الفرنسي", 
+        "الفقه الإسلامي", "المغني في شرح القانون المدني", "حماية المستهلك الرقمي", 
+        "باحث في القانون الخاص", "تكنولوجيا القانون"
+      ]
+    }
+    </script>
 
+    <style>
+        body { font-family: 'Times New Roman', Times, serif; line-height: 1.6; color: #1a1a1a; max-width: 950px; margin: 0 auto; padding: 30px; background-color: #fff; }
+        header { border-bottom: 3px double #2c3e50; padding-bottom: 20px; margin-bottom: 30px; }
+        .profile-img { float: left; margin-right: 20px; border: 1px solid #ccc; padding: 5px; }
+        h1 { font-size: 2.2em; color: #2c3e50; margin: 0; }
+        h2 { font-size: 1.5em; color: #1a5276; border-right: 4px solid #1a5276; padding-right: 10px; margin-top: 40px; text-transform: uppercase; }
+        h3 { color: #34495e; margin-top: 5px; }
+        .cv-link { font-weight: bold; color: #c0392b; text-decoration: underline; }
+        .section-content { margin-right: 20px; text-align: justify; }
+        .lang-en { direction: ltr; text-align: left; display: block; margin-top: 5px; color: #555; font-style: italic; }
+        ul { list-style-type: disc; margin-top: 10px; }
+        li { margin-bottom: 8px; }
+        a { color: #2980b9; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #666; }
+        .clear { clear: both; }
+    </style>
+</head>
+<body>
 
-مرحبًا بكم في صفحتي الأكاديمية الرسمية.
+<header>
+    <img src="photo.jpg" alt="Dr. Hassan Ahmed Hegazy" width="150" class="profile-img">
+    <h1>د. حسن أحمد حجازي | Dr. Hassan Ahmed Hegazy</h1>
+    <h3>أستاذ القانون المدني المساعد - جامعة الأزهر | Assistant Professor of Civil Law, Al-Azhar University</h3>
+    <a href="CV-Dr-Hassan-Hegazy.pdf" class="cv-link">📄 تحميل السيرة الذاتية (PDF) | Download Full CV</a>
+    <div class="clear"></div>
+</header>
 
-## 🖋️ نبذة أكاديمية | Academic Biography
-Assistant Professor of Civil Law at Al-Azhar University, Ph.D. with First-Class Honors. My research focuses on addressing digital-age challenges through contemporary legal and Sharia perspectives, specializing in virtual property and consumer protection. I possess a decade of university teaching experience, distinguished by consecutive 'Excellent' performance ratings and various scholarly publications, notably the 'Al-Mughni' series. Dedicated to enhancing academic quality and assessment, with a passion for leading student teams in international forums.
-# 
-دكتور قانون مدني بجامعة الأزهر، حاصل على دكتوراه بمرتبة الشرف الأولى، يَرتكِز نِتاجي العلمي على مُعالجة نوازِل العصر الرقمي برؤية قانونية وشرعية معاصرة، مع التركيز على قضايا الملكية الافتراضية وحماية المستهلك، لديّ خبرة تمتدُّ لعشر سنوات في التدريس الجامعي، كُلّلت بتقييم أداء "ممتاز" لسنوات متتالية، ومؤلفات علمية، أبرزها سلسلة: " المغني في شرح القانون المدني ". ملتزم بتطوير جودة التعليم والقياس الأكاديمي، مع شغف بقيادة كوادر طلابية في محافل دولية.
+<p>مرحبًا بكم في صفحتي الأكاديمية الرسمية.</p>
 
-## 🎓 الرسائل العلمية (Theses)
-1- PhD Dissertation: **Consumer Protection in Social Media Contracting**: A Comparative Study between Civil Law and Islamic Jurisprudence, Faculty of Sharia and Law, Al-Azhar University, Cairo (2021), Grade: First Class Honors, Supervision of Prof. Dr. Mohamed Al-Duwayni, Deputy of Al-Azhar.
-* رسالة الدكتوراه: **الحماية المقررة للمستهلك في التعاقد عبر وسائل التواصل الاجتماعي**: دراسة مقارنة بين القانون المدني والفقه الإسلامي* (2021) | [ Zenodo](https://zenodo.org/records/18895919)
-#
-2- Master’s Thesis: **Patient Rights in Medical Treatment Contracts**: A Comparative Study between Islamic Jurisprudence and Civil Law, Faculty of Sharia and Law, Al-Azhar University, Cairo 2018, Grade: Excellent.
-* رسالة الماجستير: **حقوق المريض في عقد العلاج**، بين الفقه الإسلامي والقانون المدني دراسة مقارنة * (2018) | [ Zenodo](https://zenodo.org/records/18022666)
+<div class="section">
+    <h2>🖋️ نبذة أكاديمية | Academic Biography</h2>
+    <div class="section-content">
+        <div class="lang-en">
+            Assistant Professor of Civil Law at Al-Azhar University, Ph.D. with First-Class Honors. My research focuses on addressing digital-age challenges through contemporary legal and Sharia perspectives, specializing in virtual property and consumer protection. I possess a decade of university teaching experience, distinguished by consecutive 'Excellent' performance ratings and various scholarly publications, notably the 'Al-Mughni' series. Dedicated to enhancing academic quality and assessment, with a passion for leading student teams in international forums.
+        </div>
+        <p>دكتور قانون مدني بجامعة الأزهر، حاصل على دكتوراه بمرتبة الشرف الأولى، يَرتكِز نِتاجي العلمي على مُعالجة نوازِل العصر الرقمي برؤية قانونية وشرعية معاصرة، مع التركيز على قضايا الملكية الافتراضية وحماية المستهلك، لديّ خبرة تمتدُّ لعشر سنوات في التدريس الجامعي، كُلّلت بتقييم أداء "ممتاز" لسنوات متتالية، ومؤلفات علمية، أبرزها سلسلة: " المغني في شرح القانون المدني ". ملتزم بتطوير جودة التعليم والقياس الأكاديمي، مع شغف بقيادة كوادر طلابية في محافل دولية.</p>
+    </div>
+</div>
 
-## 📚 المؤلفات والكتب (Books)
-**Al-Mughni in Civil Law Explanation**, Dr. Hassan Ahmed Hegazy, Vol. 1, (Introduction to Legal Sciences), 2025.
-* **المغني في شرح القانون المدني** - المجلد الأول: المدخل للعلوم القانونية (طبعة 2025).
+<div class="section">
+    <h2>🎓 الرسائل العلمية (Theses)</h2>
+    <ul>
+        <li>
+            <div class="lang-en">1- PhD Dissertation: <b>Consumer Protection in Social Media Contracting</b>: A Comparative Study between Civil Law and Islamic Jurisprudence, Faculty of Sharia and Law, Al-Azhar University, Cairo (2021), Grade: First Class Honors, Supervision of Prof. Dr. Mohamed Al-Duwayni, Deputy of Al-Azhar.</div>
+            * رسالة الدكتوراه: <b>الحماية المقررة للمستهلك في التعاقد عبر وسائل التواصل الاجتماعي</b>: دراسة مقارنة بين القانون المدني والفقه الإسلامي* (2021) | <a href="https://zenodo.org/records/18895919">Zenodo</a>
+        </li>
+        <li>
+            <div class="lang-en">2- Master’s Thesis: <b>Patient Rights in Medical Treatment Contracts</b>: A Comparative Study between Islamic Jurisprudence and Civil Law, Faculty of Sharia and Law, Al-Azhar University, Cairo 2018, Grade: Excellent.</div>
+            * رسالة الماجستير: <b>حقوق المريض في عقد العلاج</b>، بين الفقه الإسلامي والقانون المدني دراسة مقارنة * (2018) | <a href="https://zenodo.org/records/18022666">Zenodo</a>
+        </li>
+    </ul>
+</div>
 
-## 🔍 الأبحاث المنشورة (Selected Publications)
-1- **Virtual Property in the Digital Environment: A Comparative Study**. Published in Journal of the Faculty of Sharia and Law, Al-Azhar University, Tanta, Issue 40, Volume 4, December 2025.   
- **الملكية الافتراضية في البيئة الرقمية: دراسة مقارنة** (2025) - مجلة كلية الشريعة والقانون بطنطا | [قراءة البحث](https://mksq.journals.ekb.eg/article_480214.html)
- 
-2- **Civil Liability Between General Rules and Substantive Rules**: A Comparative Study of French and Egyptian Civil Laws and Islamic Jurisprudence. Published in Journal of Sharia and Law Sector, Faculty of Sharia and Law, Al-Azhar University, Cairo, Issue 17, February 2025.
-* **المسؤولية المدنية بين القواعد العامة والقواعد الموضوعية: دراسة مقارنة** (2025) - مجلة قطاع الشريعة والقانون بالقاهرة | [قراءة البحث] (https://jssl.journals.ekb.eg/article_416174.html)
+<div class="section">
+    <h2>📚 المؤلفات والكتب (Books)</h2>
+    <div class="lang-en"><b>Al-Mughni in Civil Law Explanation</b>, Dr. Hassan Ahmed Hegazy, Vol. 1, (Introduction to Legal Sciences), 2025.</div>
+    <p>* <b>المغني في شرح القانون المدني</b> - المجلد الأول: المدخل للعلوم القانونية (طبعة 2025).</p>
+</div>
 
-3- **Contractual Consent and its Protection in Selected Contracts**. Published in Journal of Fiqh and Law, Kingdom of Morocco, Issue 132, October 2023.
-* **الرضا وحمايته في بعض العقود** (2023) - مجلة الفقه والقانون، المملكة المغربية.
+<div class="section">
+    <h2>🔍 الأبحاث المنشورة (Selected Publications)</h2>
+    <ol>
+        <li>
+            <div class="lang-en">1- <b>Virtual Property in the Digital Environment: A Comparative Study</b>. Published in Journal of the Faculty of Sharia and Law, Al-Azhar University, Tanta, Issue 40, Volume 4, December 2025.</div>
+            <b>الملكية الافتراضية في البيئة الرقمية: دراسة مقارنة</b> (2025) - مجلة كلية الشريعة والقانون بطنطا | <a href="https://mksq.journals.ekb.eg/article_480214.html">قراءة البحث</a>
+        </li>
+        <li>
+            <div class="lang-en">2- <b>Civil Liability Between General Rules and Substantive Rules</b>: A Comparative Study of French and Egyptian Civil Laws and Islamic Jurisprudence. Published in Journal of Sharia and Law Sector, Faculty of Sharia and Law, Al-Azhar University, Cairo, Issue 17, February 2025.</div>
+            * <b>المسؤولية المدنية بين القواعد العامة والقواعد الموضوعية: دراسة مقارنة</b> (2025) - مجلة قطاع الشريعة والقانون بالقاهرة | <a href="https://jssl.journals.ekb.eg/article_416174.html">قراءة البحث</a>
+        </li>
+        <li>
+            <div class="lang-en">3- <b>Contractual Consent and its Protection in Selected Contracts</b>. Published in Journal of Fiqh and Law, Kingdom of Morocco, Issue 132, October 2023.</div>
+            * <b>الرضا وحمايته في بعض العقود</b> (2023) - مجلة الفقه والقانون، المملكة المغربية.
+        </li>
+        <li>
+            <div class="lang-en">4- <b>The Impact of Modern Technology on Workers' Rights</b>: Civil Law vs. Islamic Jurisprudence. Paper presented at the 5th International Conference of the Faculty of Sharia & Law, Dakahlia, titled: "Sustainable Development and Green Economy from the Perspective of Islamic Jurisprudence and Positive Law," 15 October 2024.</div>
+            * <b>تأثير وسائل التكنولوجيا الحديثة على حقوق العمال</b> (2024) - ورقة بحثية مقدمة للمؤتمر الدولي الخامس بكلية الشريعة والقانون بالدقهلية.
+        </li>
+        <li>
+            <div class="lang-en">5- <b>The Right to Privacy on Social Media</b>. Paper presented at the 2nd International Conference of the Faculty of Sharia & Law, Dakahlia, titled: "Modern Technology and its Impact on Sharia and Legal Studies," 22/3/2022.</div>
+            * <b>الحق في الخصوصية عبر وسائل التواصل الاجتماعي</b> (2022) - ورقة بحثية مقدمة للمؤتمر الدولي الثاني بكلية الشريعة والقانون بالدقهلية.
+        </li>
+        <li>
+            <div class="lang-en">6- Obstacles to Patient Consent in Medical Interventions. Published in: "Ifad Journal for Humanities and Social Sciences, Issue 1, July 2021</div>
+            * <b>معوقات رضا المريض بالتدخل الطبي</b> (2021) - مجلة إيفاد للعلوم الإنسانية والاجتماعية.
+        </li>
+        <li>
+            <div class="lang-en">7- Enlightening the Electronic Consumer: A Perspective from Civil Law and Islamic Jurisprudence. Paper presented at the 4th Scientific Conference of the Faculty of Law, Mansoura University, titled: "Legal and Economic Dimensions of Consumer Protection," 21 December 2020.</div>
+            * <b>تبصير المستهلك الإلكتروني</b>، من منظور القانون المدني والفقه الإسلامي، (2020) ورقة بحثية مقدمة للمؤتمر الدولي الرابع بكلية الحقوق بالمنصورة.
+        </li>
+        <li>
+            <div class="lang-en">8- Protection of Non-Muslims’ Property in Exceptional Circumstances: Islamic Jurisprudence vs. Egyptian Law. Paper presented at the 1st International Scientific Conference of the Faculty of Sharia & Law, Dakahlia, titled: "Pluralism and the Culture of Coexistence with Others: Jurisprudential and Legal Perspectives,"17-18/2/2020.</div>
+            * <b>حماية ممتلكات غير المسلمين في الظروف الاستثنائية</b> من منظور الفقه الإسلامي والقانون المصري (2020) - ورقة بحثية مقدمة للمؤتمر الدولي الأول بكلية الشريعة والقانون بالدقهلية.
+        </li>
+        <li>
+            <div class="lang-en">9- Enlightening the Patient Between Theory and Practice: A Comparative Study. Forthcoming, Journal of Jurisprudential and Legal Studies, Higher Institute of the Judiciary, Sultanate of Oman.</div>
+            * <b>تبصير المريض بين النظرية والتطبيق</b> (2025) - مجلة الدراسات الفقهية والقانونية بالمعهد العالي للقضاء بسلطنة عمان.
+        </li>
+    </ol>
+</div>
 
-4- **The Impact of Modern Technology on Workers' Rights**: Civil Law vs. Islamic Jurisprudence. Paper presented at the 5th International Conference of the Faculty of Sharia & Law, Dakahlia, titled: "Sustainable Development and Green Economy from the Perspective of Islamic Jurisprudence and Positive Law," 15 October 2024.
-* **تأثير وسائل التكنولوجيا الحديثة على حقوق العمال** (2024) - ورقة بحثية مقدمة للمؤتمر الدولي الخامس بكلية الشريعة والقانون بالدقهلية.
+<div class="section">
+    <h2>🏫 الخبرة التدريسية (Teaching Experience)</h2>
+    <p>تمتلك خبرة تمتد لأكثر من 10 سنوات في تدريس المقررات القانونية التالية:</p>
+    <ul>
+        <li><b>القانون المدني:</b> (مصادر الالتزام، أحكام الالتزام، الحقوق العينية الأصلية والتبعية).</li>
+        <li><b>قانون العمل والتأمينات الاجتماعية.</b></li>
+        <li><b>أصول الفقه الإسلامي والقانون المقارن.</b></li>
+        <li><b>قانون العمل والتأمينات.</b></li>
+    </ul>
+</div>
 
-5- **The Right to Privacy on Social Media**. Paper presented at the 2nd International Conference of the Faculty of Sharia & Law, Dakahlia, titled: "Modern Technology and its Impact on Sharia and Legal Studies," 22/3/2022.
-* **الحق في الخصوصية عبر وسائل التواصل الاجتماعي** (2022) - ورقة بحثية مقدمة للمؤتمر الدولي الثاني بكلية الشريعة والقانون بالدقهلية.
+<div class="section">
+    <h2>🏗️ مشاريع بحثية قيد التنفيذ (Current Projects)</h2>
+    <ul>
+        <li><b>سلسلة المغني في شرح القانون المدني:</b> العمل جارٍ على إعداد المجلدات القادمة من هذه السلسلة.</li>
+        <li><b>دراسة متخصصة:</b> حول المسؤولية المدنية للذكاء الاصطناعي في التشريع المصري المقارن.</li>
+    </ul>
+</div>
 
-6- Obstacles to Patient Consent in Medical Interventions. Published in: "Ifad Journal for Humanities and Social Sciences, Issue 1, July 2021 
-* **معوقات رضا المريض بالتدخل الطبي** (2021) - مجلة إيفاد للعلوم الإنسانية والاجتماعية.
+<div class="section">
+    <h2>🌐 الروابط المهنية (Professional Links)</h2>
+    <ul>
+        <li><a href="https://orcid.org/0009-0005-8869-4450">الملف الشخصي على ORCID</a></li>
+        <li><a href="https://bit.ly/GoogleScholar-DrHassanHegazy">الباحث العلمي Google Scholar</a></li>
+        <li><a href="https://bit.ly/Zenodo-DrHassanHegazy">مستودع أبحاث Zenodo</a></li>
+        <li><a href="https://al-azhar.academia.edu/drhassanhegazy">موقع أكاديميا Academia.edu</a></li>
+    </ul>
+</div>
 
-7- Enlightening the Electronic Consumer: A Perspective from Civil Law and Islamic Jurisprudence. Paper presented at the 4th Scientific Conference of the Faculty of Law, Mansoura University, titled: "Legal and Economic Dimensions of Consumer Protection," 21 December 2020.
-* **تبصير المستهلك الإلكتروني**، من منظور القانون المدني والفقه الإسلامي، (2020) ورقة بحثية مقدمة للمؤتمر الدولي الرابع بكلية الحقوق بالمنصورة.
+<div class="section">
+    <h2>✉️ التواصل (Contact)</h2>
+    <ul>
+        <li>البريد الإلكتروني الجامعي: hassanahmed.31@azhar.edu.eg</li>
+        <li>البريد الشخصي: Dr.hsn24@gmail.com</li>
+    </ul>
+</div>
 
-8- Protection of Non-Muslims’ Property in Exceptional Circumstances: Islamic Jurisprudence vs. Egyptian Law. Paper presented at the 1st International Scientific Conference of the Faculty of Sharia & Law, Dakahlia, titled: "Pluralism and the Culture of Coexistence with Others: Jurisprudential and Legal Perspectives,"17-18/2/2020.
-* **حماية ممتلكات غير المسلمين في الظروف الاستثنائية** من منظور الفقه الإسلامي والقانون المصري (2020) - ورقة بحثية مقدمة للمؤتمر الدولي الأول بكلية الشريعة والقانون بالدقهلية.
+<footer>
+    <p>© 2026 Dr. Hassan Ahmed Hegazy. All rights reserved.</p>
+    <p>Content on this site is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a></p>
+</footer>
 
-9- Enlightening the Patient Between Theory and Practice: A Comparative Study. Forthcoming, Journal of Jurisprudential and Legal Studies, Higher Institute of the Judiciary, Sultanate of Oman.
-* **تبصير المريض بين النظرية والتطبيق** (2025) - مجلة الدراسات الفقهية والقانونية بالمعهد العالي للقضاء بسلطنة عمان. 
-
-#
-## 🏫 الخبرة التدريسية (Teaching Experience)
-*تمتلك خبرة تمتد لأكثر من 10 سنوات في تدريس المقررات القانونية التالية:*
-
-* **القانون المدني:** (مصادر الالتزام، أحكام الالتزام، الحقوق العينية الأصلية والتبعية).
-* **قانون العمل والتأمينات الاجتماعية.**
-* **أصول الفقه الإسلامي والقانون المقارن.**
-* **قانون العمل والتأمينات.**
-#
-## 🏗️ مشاريع بحثية قيد التنفيذ (Current Projects)
-* **سلسلة المغني في شرح القانون المدني:** العمل جارٍ على إعداد المجلدات القادمة من هذه السلسلة.
-* **دراسة متخصصة:** حول المسؤولية المدنية للذكاء الاصطناعي في التشريع المصري المقارن.
-# 
-## 🌐 الروابط المهنية (Professional Links)
-* [الملف الشخصي على ORCID](https://orcid.org/0009-0005-8869-4450)
-* [الباحث العلمي Google Scholar](https://bit.ly/GoogleScholar-DrHassanHegazy)
-* [مستودع أبحاث Zenodo](https://bit.ly/Zenodo-DrHassanHegazy)
-* [موقع أكاديميا](https://al-azhar.academia.edu/drhassanhegazy)
----
-## ✉️ التواصل (Contact)
-* **البريد الإلكتروني الجامعي:** hassanahmed.31@azhar.edu.eg
-* **البريد الشخصي:** Dr.hsn24@gmail.com
-
----
-### ⚖️ حقوق الملكية الفكرية (Intellectual Property)
-© 2026 Dr. Hassan Ahmed Hegazy. All rights reserved. 
-Content on this site is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
----
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Dr. Hassan Ahmed Hegazy",
-  "alternateName": "د. حسن أحمد حجازي",
-  "jobTitle": "Assistant Professor of Civil Law",
-  "affiliation": {
-    "@type": "EducationalOrganization",
-    "name": "Al-Azhar University",
-    "location": "Egypt"
-  },
-  "description": "أستاذ القانون المدني المساعد بجامعة الأزهر، متخصص في الملكية الافتراضية والمسؤولية المدنية للذكاء الاصطناعي والقانون المقارن.",
-  "knowsAbout": [
-    "Virtual Property Rights",
-    "Digital Assets",
-    "AI Civil Liability",
-    "Comparative Law",
-    "Egyptian Civil Code",
-    "French Civil Law",
-    "Islamic Jurisprudence",
-    "Digital Consumer Protection",
-    "Legal Technology",
-    "الملكية الافتراضية",
-    "الأصول الرقمية",
-    "المسؤولية المدنية عن الذكاء الاصطناعي",
-    "القانون المقارن",
-    "القانون المدني المصري",
-    "القانون المدني الفرنسي",
-    "الفقه الإسلامي",
-    "حماية المستهلك الرقمي",
-    "تكنولوجيا القانون"
-  ],
-  "author": {
-    "@type": "Book",
-    "name": "Al-Mughni fi Sharh Al-Qanun Al-Madani (المغني في شرح القانون المدني)"
-  }
-}
-</script>
+</body>
+</html>
