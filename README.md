@@ -12,7 +12,7 @@ Assistant Professor of Civil Law at Al-Azhar University, Ph.D. with First-Class 
 ## 🎓 الرسائل العلمية (Theses)
 1- PhD Dissertation: **Consumer Protection in Social Media Contracting**: A Comparative Study between Civil Law and Islamic Jurisprudence, Faculty of Sharia and Law, Al-Azhar University, Cairo (2021), Grade: First Class Honors, Supervision of Prof. Dr. Mohamed Al-Duwayni, Deputy of Al-Azhar.
 * رسالة الدكتوراه: **الحماية المقررة للمستهلك في التعاقد عبر وسائل التواصل الاجتماعي**: دراسة مقارنة بين القانون المدني والفقه الإسلامي* (2021) | [ Zenodo](https://zenodo.org/records/18895919)
-
+#
 2- Master’s Thesis: **Patient Rights in Medical Treatment Contracts**: A Comparative Study between Islamic Jurisprudence and Civil Law, Faculty of Sharia and Law, Al-Azhar University, Cairo 2018, Grade: Excellent.
 * رسالة الماجستير: **حقوق المريض في عقد العلاج**، بين الفقه الإسلامي والقانون المدني دراسة مقارنة * (2018) | [ Zenodo](https://zenodo.org/records/18022666)
 
